@@ -1,3 +1,12 @@
+<details><summary>Deploy To Render</summary>
+<br>
+<a href="https://render.com/deploy?repo=https://github.com/shallow090/2.55">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+</details>
+
+
+
 # PM2.5 Forcaster
 
 PM2.5 Forcaster is a project aimed at predicting PM2.5 concentration using various environmental factors like `minimum temperature`, `maximum temperature`, `wind speed`, `wind direction`, `precipitation`, etc.
